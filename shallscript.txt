@@ -1,0 +1,17 @@
+• wget: The command is used to download anything from the Internet
+• Ex: wgethttps://dlcdn.apache.org/tomcat/tomcat-9/v9.0.106/bin/apache-tomcat-9.0.106.tar.gz
+• Downloads Tomcat
+• curl: To send an HTTP request and to get a response
+• Ex: curl https://type.fit/api/quotes
+• ifconfig: To know the ip address of the machine
+• ping: To check the connectivity
+• free: To print/display memory level details
+• top : To print/display running processes
+Package Manager:(yum, apt, …….)
+• Package Managers are used to install/update software on a Linux machine
+• Package managers are specific to a Linux distribution
+• Amazon Linux/Red Hat/Cent OSyum
+• Ubuntu /Debianapt
+40
+• sudo yum install git  downloads and installs git
+• sudo yum install java  downloads and installs Java
