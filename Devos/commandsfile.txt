@@ -1,0 +1,26 @@
+check linux kernel version:
+uname -r
+
+check linux OS Version:
+cat /etc/os-relase
+
+to redirect output to file:
+echo -e "sniffer/ndevops/naws">file.txt
+
+to see running processes in linux:
+ps aux
+
+to kill a processes in linux:
+sudo kill <pid>
+
+to print networking - releted info:
+netstat
+
+to change the hostname in linux:
+ip-172-31-2-116 is the default hostname
+sudo hostname <new name>
+exit and reconnect
+to set the hostname permanently
+
+sudo vi /etc/hostname 
+re stat the linux machine.
